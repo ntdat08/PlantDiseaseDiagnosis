@@ -1,0 +1,20 @@
+﻿question,expected_plant,expected_disease,top1_plant,top1_disease,top1_section,top3_results,hit_at_1,hit_at_3,plant_hit_at_1,plant_hit_at_3
+"Lá cà chua có đốm nâu với các vòng tròn đồng tâm, đây là bệnh gì?",Tomato,Early blight,Tomato,Early blight,symptoms,Tomato: Early blight | Tomato: Bacterial spot | Tomato: Late blight,1,1,1,1
+"Lá cà chua xuất hiện các vết úng nước, chuyển màu nâu đen và có lớp mốc trắng ở mặt dưới.",Tomato,Late blight,Tomato,Bacterial spot,symptoms,Tomato: Bacterial spot | Tomato: Late blight | Tomato: Early blight,0,1,1,1
+"Lá cà chua có những đốm nhỏ màu sẫm, ban đầu ướt rồi chuyển sang màu nâu và khô.",Tomato,Bacterial spot,Tomato,Late blight,symptoms,Tomato: Late blight | Tomato: Bacterial spot | Tomato: Early blight,0,1,1,1
+Bệnh nào trên cà chua do nấm Alternaria solani gây ra?,Tomato,Early blight,Tomato,Early blight,causes,Tomato: Early blight | Tomato: Bacterial spot | Apple: Black rot,1,1,1,1
+Phytophthora infestans gây ra bệnh gì trên cây cà chua?,Tomato,Late blight,Tomato,Late blight,causes,Tomato: Late blight | Tomato: Bacterial spot | Tomato: Early blight,1,1,1,1
+Bệnh đốm lá do vi khuẩn Xanthomonas gây ra có tên là gì?,Tomato,Bacterial spot,Tomato,Bacterial spot,causes,Tomato: Bacterial spot | Apple: Black rot | Apple: Cedar-apple rust,1,1,1,1
+Làm thế nào để hạn chế bệnh đốm nâu có vòng tròn trên lá cà chua?,Tomato,Early blight,Tomato,Early blight,symptoms,Tomato: Early blight | Tomato: Late blight | Tomato: Bacterial spot,1,1,1,1
+Làm sao phòng ngừa bệnh đốm vi khuẩn trên cây cà chua?,Tomato,Bacterial spot,Tomato,Bacterial spot,prevention,Tomato: Bacterial spot | Tomato: Late blight | Tomato: Early blight,1,1,1,1
+Bệnh nào phát triển mạnh trong điều kiện thời tiết mát và ẩm ướt trên cà chua?,Tomato,Late blight,Tomato,Late blight,causes,Tomato: Late blight | Tomato: Early blight | Tomato: Bacterial spot,1,1,1,1
+"Lá táo xuất hiện các đốm màu xanh ô liu đến nâu, mép không đều. Đây là bệnh gì?",Apple,Apple scab,Apple,Apple scab,symptoms,Apple: Apple scab | Apple: Cedar-apple rust | Apple: healthy,1,1,1,1
+"Quả táo xuất hiện các vết sần sùi, đóng vảy và có thể bị nứt. Nguyên nhân có thể là bệnh gì?",Apple,Apple scab,Apple,Cedar-apple rust,symptoms,Apple: Cedar-apple rust | Apple: Apple scab | Apple: Black rot,0,1,1,1
+Nấm Venturia inaequalis gây ra bệnh gì trên cây táo?,Apple,Apple scab,Apple,Apple scab,causes,Apple: Apple scab | Apple: Black rot | Apple: Cedar-apple rust,1,1,1,1
+"Lá táo có những đốm nâu với hình dạng giống mắt ếch, quả có các vòng tròn màu nâu đồng tâm. Đây là bệnh gì?",Apple,Black rot,Apple,Apple scab,symptoms,Apple: Apple scab | Apple: Cedar-apple rust | Apple: Black rot,0,1,1,1
+Bệnh thối đen trên cây táo do tác nhân nấm nào gây ra?,Apple,Black rot,Apple,Black rot,causes,Apple: Black rot | Apple: Cedar-apple rust | Apple: Apple scab,1,1,1,1
+"Lá táo xuất hiện các đốm màu vàng hoặc cam, mặt dưới có cấu trúc màu cam giống ống nhỏ. Đây là bệnh gì?",Apple,Cedar-apple rust,Apple,Cedar-apple rust,symptoms,Apple: Cedar-apple rust | Apple: Apple scab | Apple: Black rot,1,1,1,1
+Gymnosporangium juniperi-virginianae gây ra bệnh gì trên cây táo?,Apple,Cedar-apple rust,Apple,Cedar-apple rust,causes,Apple: Cedar-apple rust | Apple: Apple scab | Apple: Black rot,1,1,1,1
+Làm sao nhận biết bệnh gỉ sắt tuyết tùng trên lá táo?,Apple,Cedar-apple rust,Apple,Apple scab,causes,Apple: Apple scab | Apple: Cedar-apple rust | Apple: Black rot,0,1,1,1
+Lá táo khỏe mạnh thường có đặc điểm như thế nào khi không có dấu hiệu bệnh?,Apple,healthy,Apple,healthy,symptoms,Apple: healthy | Apple: Apple scab | Apple: Cedar-apple rust,1,1,1,1
+"Trong cơ sở dữ liệu, lớp healthy của cây táo đại diện cho tình trạng nào?",Apple,healthy,Apple,healthy,prevention,Apple: healthy | Apple: Apple scab | Apple: Cedar-apple rust,1,1,1,1

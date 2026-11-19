@@ -1,0 +1,46 @@
+﻿# ==========================================
+# PlantCare AI - Python Dependencies
+# Python 3.9
+# ==========================================
+
+# Backend API
+fastapi==0.128.8
+uvicorn==0.39.0
+pydantic==2.13.5
+python-multipart==0.0.20
+
+# Deep Learning
+tensorflow==2.10.1
+numpy==1.23.5
+Pillow==11.3.0
+
+# RAG and Vector Database
+chromadb==0.5.23
+sentence-transformers==3.3.1
+torch==2.8.0
+transformers==4.46.3
+huggingface-hub==0.36.2
+
+# Generative AI
+google-genai==1.47.0
+python-dotenv==1.2.1
+
+# Data Processing and Evaluation
+datasets==2.19.2
+pandas==2.3.3
+scikit-learn==1.6.1
+matplotlib==3.9.4
+
+# Dependency compatibility
+protobuf==3.19.6
+googleapis-common-protos==1.59.1
+
+# OpenTelemetry compatibility (ChromaDB)
+opentelemetry-api==1.21.0
+opentelemetry-sdk==1.21.0
+opentelemetry-exporter-otlp-proto-grpc==1.21.0
+opentelemetry-instrumentation==0.42b0
+opentelemetry-instrumentation-asgi==0.42b0
+opentelemetry-instrumentation-fastapi==0.42b0
+opentelemetry-semantic-conventions==0.42b0
+opentelemetry-util-http==0.42b0

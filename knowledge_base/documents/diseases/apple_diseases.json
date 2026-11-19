@@ -1,0 +1,42 @@
+[
+  {
+    "id": "apple_scab",
+    "plant": "Apple",
+    "disease": "Apple scab",
+    "symptoms": "Lá táo xuất hiện các đốm màu xanh ô liu đến nâu sẫm, có mép không đều hoặc dạng tua. Khi bệnh phát triển, các đốm có thể chuyển sang màu sẫm hơn. Trên quả xuất hiện những vết sần sùi, đóng vảy và có màu nâu đen. Quả bị bệnh có thể biến dạng hoặc nứt. Các vết đóng vảy trên quả là dấu hiệu quan trọng giúp nhận biết bệnh ghẻ táo.",
+    "causes": "Bệnh chủ yếu do nấm Venturia inaequalis gây ra. Nấm có thể tồn tại qua mùa đông trên lá cây bị bệnh đã rụng xuống đất. Thời tiết mát, mưa nhiều và lá ẩm ướt trong thời gian dài tạo điều kiện thuận lợi cho nấm lây nhiễm.",
+    "prevention": "Thu gom và tiêu hủy lá rụng bị nhiễm bệnh để hạn chế nguồn nấm tồn tại trong vườn. Tỉa cành hợp lý nhằm tăng độ thông thoáng cho tán cây. Hạn chế tưới nước trực tiếp lên lá. Ưu tiên lựa chọn giống táo có khả năng kháng bệnh khi có điều kiện.",
+    "treatment": "Thu gom và xử lý lá bệnh rụng dưới gốc, đồng thời duy trì tán cây thông thoáng. Trong một số mô hình sản xuất, có thể cần sử dụng thuốc bảo vệ thực vật để phòng bệnh vào thời điểm thích hợp. Chỉ sử dụng sản phẩm được đăng ký tại địa phương và tuân thủ hướng dẫn trên nhãn cùng khuyến cáo của cơ quan chuyên môn.",
+    "source": "https://extension.unh.edu/resource/apple-scab-fact-sheet"
+  },
+  {
+    "id": "apple_black_rot",
+    "plant": "Apple",
+    "disease": "Black rot",
+    "symptoms": "Lá táo xuất hiện các đốm tròn giống hình mắt ếch, có viền màu tím hoặc đỏ tím và phần giữa màu nâu vàng. Trên quả xuất hiện các vết thối màu nâu, đôi khi hình thành những vòng tròn đồng tâm. Quả bị bệnh có thể teo lại, khô quắt và vẫn treo trên cành. Đốm lá hình mắt ếch và quả khô quắt là những dấu hiệu đặc trưng của bệnh thối đen.",
+    "causes": "Bệnh do nấm Botryosphaeria obtusa, còn được gọi là Diplodia seriata, gây ra. Nấm có thể tồn tại trên cành bị nhiễm bệnh, vết loét trên thân cành, phần gỗ chết và quả khô quắt còn trên cây. Các vết thương trên cây cùng điều kiện ẩm ướt có thể tạo thuận lợi cho quá trình lây nhiễm.",
+    "prevention": "Thường xuyên thu gom quả khô quắt, cành chết, cành bị nhiễm bệnh và các vị trí có vết loét. Cắt tỉa những cành bị bệnh và xử lý tàn dư đúng cách. Duy trì cây khỏe mạnh, chăm sóc phù hợp và hạn chế các yếu tố gây stress cho cây.",
+    "treatment": "Cắt bỏ và loại bỏ những cành bị nhiễm bệnh hoặc có vết loét. Thu gom quả khô quắt và phần gỗ chết để giảm nguồn bệnh trong vườn. Trong sản xuất thương mại, có thể áp dụng chương trình sử dụng thuốc bảo vệ thực vật khi phù hợp. Cần tuân thủ hướng dẫn trên nhãn sản phẩm và khuyến cáo của cơ quan chuyên môn tại địa phương.",
+    "source": "https://extension.psu.edu/pome-fruit-disease-black-rot-and-frogeye-leaf-spot"
+  },
+  {
+    "id": "apple_cedar_apple_rust",
+    "plant": "Apple",
+    "disease": "Cedar apple rust",
+    "symptoms": "Mặt trên lá táo xuất hiện các đốm nhỏ màu vàng. Khi phát triển, các đốm chuyển sang màu vàng cam hoặc cam sáng, đôi khi có viền đỏ và những chấm đen nhỏ. Mặt dưới lá có thể xuất hiện các cấu trúc dạng ống hoặc tua màu cam. Sự kết hợp giữa đốm vàng cam trên mặt lá và cấu trúc dạng ống màu cam ở mặt dưới là dấu hiệu đặc trưng của bệnh rỉ sắt tuyết tùng trên táo.",
+    "causes": "Bệnh do nấm Gymnosporangium juniperi-virginianae gây ra. Nấm cần hai nhóm cây ký chủ để hoàn thành vòng đời, gồm cây táo hoặc táo dại và cây tuyết tùng đỏ phương Đông hoặc một số loài bách xù. Thời tiết mùa xuân ẩm ướt tạo điều kiện thuận lợi cho bào tử phát tán và gây nhiễm bệnh.",
+    "prevention": "Ưu tiên trồng các giống táo có khả năng kháng bệnh khi có sẵn. Kiểm tra những cây bách xù và tuyết tùng đỏ phương Đông ở khu vực lân cận. Khi có điều kiện, loại bỏ các khối u chứa bào tử trên cây ký chủ trước khi chúng phát tán. Thu gom tàn dư thực vật bị nhiễm bệnh và duy trì vệ sinh vườn trồng.",
+    "treatment": "Biện pháp quản lý chủ yếu tập trung vào phòng bệnh và hạn chế nguồn bào tử lây nhiễm. Trong những mô hình sản xuất phù hợp, có thể sử dụng thuốc bảo vệ thực vật để bảo vệ cây trước khi nấm xâm nhập, vào các giai đoạn sinh trưởng dễ bị nhiễm bệnh. Cần tham khảo khuyến cáo tại địa phương và tuân thủ hướng dẫn trên nhãn sản phẩm.",
+    "source": "https://extension.psu.edu/pome-fruit-disease-rust"
+  },
+  {
+    "id": "apple_healthy",
+    "plant": "Apple",
+    "disease": "healthy",
+    "symptoms": "Lá táo khỏe mạnh thường có màu xanh và hình dạng bình thường. Lá không xuất hiện các vết bệnh đặc trưng, tình trạng vàng hóa lan rộng, lớp nấm bất thường hoặc những vùng mô bị chết rõ rệt.",
+    "causes": "Đây là trạng thái chưa ghi nhận dấu hiệu rõ ràng của bệnh trên lá. Tuy nhiên, màu sắc và hình dạng lá vẫn có thể thay đổi tùy theo giống táo, tuổi lá, điều kiện sinh trưởng và mùa vụ.",
+    "prevention": "Duy trì chế độ dinh dưỡng cân đối và tưới nước phù hợp. Đảm bảo tán cây thông thoáng, thường xuyên kiểm tra tình trạng lá và các bộ phận khác của cây. Thu gom tàn dư thực vật và giữ vệ sinh khu vực trồng.",
+    "treatment": "Cây đang khỏe mạnh nên không cần sử dụng thuốc điều trị bệnh. Tiếp tục chăm sóc đúng kỹ thuật và theo dõi thường xuyên để phát hiện sớm những thay đổi bất thường trên lá, cành và quả.",
+    "source": "General healthy-leaf description for the classification system; not a disease-specific diagnosis."
+  }
+]

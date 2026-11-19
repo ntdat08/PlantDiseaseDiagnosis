@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+dataset/raw/*
+dataset/processed/*
+
+# AI models and artifacts
+models/*.keras
+models/*.h5
+artifacts/*
+
+# Vector database
+vector_store/*
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Backup files
+backup/
+
+# Temporary test files
+test_files/
+test_*.jpg
+test_*.jpeg
+test_*.png
+test_*.webp
+test_*.txt
+
+# Dataset cache and generated previews
+dataset/hf_cache/
+dataset/preview/
+dataset/preview_by_label/
+
+# Large dataset audit files
+evaluation/classification/image_hashes.csv
+
+# Backup source files
+backend/**/*_backup.py
+
+# Backup scripts
+scripts/*_backup.py
+
+# Misclassified sample images (keep evaluation reports)
+evaluation/classification/misclassified/images/

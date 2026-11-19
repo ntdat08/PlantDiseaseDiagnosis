@@ -1,0 +1,10 @@
+﻿question,expected_disease,top_1_disease,top_1_distance,retrieved_diseases,hit_at_1,hit_at_3
+"Lá cà chua có đốm nâu với các vòng tròn đồng tâm, đây là bệnh gì?",Early blight,Early blight,0.2766,Early blight | Bacterial spot | Late blight,1,1
+"Lá cà chua xuất hiện các vết úng nước, chuyển màu nâu đen và có lớp mốc trắng ở mặt dưới.",Late blight,Bacterial spot,0.324,Bacterial spot | Late blight | Early blight,0,1
+"Lá cà chua có những đốm nhỏ màu sẫm, ban đầu ướt rồi chuyển sang màu nâu và khô.",Bacterial spot,Bacterial spot,0.3777,Bacterial spot | Late blight | Early blight,1,1
+Bệnh nào trên cà chua do nấm Alternaria solani gây ra?,Early blight,Early blight,0.2927,Early blight | Bacterial spot | Late blight,1,1
+Phytophthora infestans gây ra bệnh gì trên cây cà chua?,Late blight,Late blight,0.3197,Late blight | Early blight | Bacterial spot,1,1
+Bệnh đốm lá do vi khuẩn Xanthomonas gây ra có tên là gì?,Bacterial spot,Bacterial spot,0.4753,Bacterial spot | Early blight | Late blight,1,1
+Làm thế nào để hạn chế bệnh đốm nâu có vòng tròn trên lá cà chua?,Early blight,Early blight,0.3078,Early blight | Bacterial spot | Late blight,1,1
+Làm sao phòng ngừa bệnh đốm vi khuẩn trên cây cà chua?,Bacterial spot,Bacterial spot,0.3315,Bacterial spot | Early blight | Late blight,1,1
+Bệnh nào phát triển mạnh trong điều kiện thời tiết mát và ẩm ướt?,Late blight,Late blight,0.4976,Late blight | Bacterial spot | Early blight,1,1

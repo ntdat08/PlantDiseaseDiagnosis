@@ -1,0 +1,97 @@
+[
+  {
+    "question": "Lá cà chua có đốm nâu với các vòng tròn đồng tâm, đây là bệnh gì?",
+    "expected_plant": "Tomato",
+    "expected_disease": "Early blight"
+  },
+  {
+    "question": "Lá cà chua xuất hiện các vết úng nước, chuyển màu nâu đen và có lớp mốc trắng ở mặt dưới.",
+    "expected_plant": "Tomato",
+    "expected_disease": "Late blight"
+  },
+  {
+    "question": "Lá cà chua có những đốm nhỏ màu sẫm, ban đầu ướt rồi chuyển sang màu nâu và khô.",
+    "expected_plant": "Tomato",
+    "expected_disease": "Bacterial spot"
+  },
+  {
+    "question": "Bệnh nào trên cà chua do nấm Alternaria solani gây ra?",
+    "expected_plant": "Tomato",
+    "expected_disease": "Early blight"
+  },
+  {
+    "question": "Phytophthora infestans gây ra bệnh gì trên cây cà chua?",
+    "expected_plant": "Tomato",
+    "expected_disease": "Late blight"
+  },
+  {
+    "question": "Bệnh đốm lá do vi khuẩn Xanthomonas gây ra có tên là gì?",
+    "expected_plant": "Tomato",
+    "expected_disease": "Bacterial spot"
+  },
+  {
+    "question": "Làm thế nào để hạn chế bệnh đốm nâu có vòng tròn trên lá cà chua?",
+    "expected_plant": "Tomato",
+    "expected_disease": "Early blight"
+  },
+  {
+    "question": "Làm sao phòng ngừa bệnh đốm vi khuẩn trên cây cà chua?",
+    "expected_plant": "Tomato",
+    "expected_disease": "Bacterial spot"
+  },
+  {
+    "question": "Bệnh nào phát triển mạnh trong điều kiện thời tiết mát và ẩm ướt trên cà chua?",
+    "expected_plant": "Tomato",
+    "expected_disease": "Late blight"
+  },
+  {
+    "question": "Lá táo xuất hiện các đốm màu xanh ô liu đến nâu, mép không đều. Đây là bệnh gì?",
+    "expected_plant": "Apple",
+    "expected_disease": "Apple scab"
+  },
+  {
+    "question": "Quả táo xuất hiện các vết sần sùi, đóng vảy và có thể bị nứt. Nguyên nhân có thể là bệnh gì?",
+    "expected_plant": "Apple",
+    "expected_disease": "Apple scab"
+  },
+  {
+    "question": "Nấm Venturia inaequalis gây ra bệnh gì trên cây táo?",
+    "expected_plant": "Apple",
+    "expected_disease": "Apple scab"
+  },
+  {
+    "question": "Lá táo có những đốm nâu với hình dạng giống mắt ếch, quả có các vòng tròn màu nâu đồng tâm. Đây là bệnh gì?",
+    "expected_plant": "Apple",
+    "expected_disease": "Black rot"
+  },
+  {
+    "question": "Bệnh thối đen trên cây táo do tác nhân nấm nào gây ra?",
+    "expected_plant": "Apple",
+    "expected_disease": "Black rot"
+  },
+  {
+    "question": "Lá táo xuất hiện các đốm màu vàng hoặc cam, mặt dưới có cấu trúc màu cam giống ống nhỏ. Đây là bệnh gì?",
+    "expected_plant": "Apple",
+    "expected_disease": "Cedar-apple rust"
+  },
+  {
+    "question": "Gymnosporangium juniperi-virginianae gây ra bệnh gì trên cây táo?",
+    "expected_plant": "Apple",
+    "expected_disease": "Cedar-apple rust"
+  },
+  {
+    "question": "Làm sao nhận biết bệnh gỉ sắt tuyết tùng trên lá táo?",
+    "expected_plant": "Apple",
+    "expected_disease": "Cedar-apple rust"
+  },
+  {
+    "question": "Lá táo khỏe mạnh thường có đặc điểm như thế nào khi không có dấu hiệu bệnh?",
+    "expected_plant": "Apple",
+    "expected_disease": "healthy"
+  },
+  {
+    "question": "Trong cơ sở dữ liệu, lớp healthy của cây táo đại diện cho tình trạng nào?",
+    "expected_plant": "Apple",
+    "expected_disease": "healthy"
+  }
+]

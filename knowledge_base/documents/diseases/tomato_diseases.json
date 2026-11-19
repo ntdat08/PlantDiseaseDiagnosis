@@ -1,0 +1,102 @@
+[
+  {
+    "id": "tomato_early_blight",
+    "plant": "Tomato",
+    "disease": "Early blight",
+    "symptoms": "Lá cà chua xuất hiện các đốm tròn màu nâu sẫm, bên trong có nhiều vòng đồng tâm giống hình bia bắn. Bệnh thường bắt đầu ở những lá già. Xung quanh vết bệnh đôi khi có quầng vàng. Các vòng đồng tâm là dấu hiệu đặc trưng giúp nhận biết bệnh đốm vòng sớm.",
+    "causes": "Bệnh do nấm Alternaria solani gây ra. Nấm phát triển thuận lợi trong điều kiện thời tiết ấm, độ ẩm cao và lá cây thường xuyên bị ướt trong thời gian dài.",
+    "prevention": "Sử dụng cây giống khỏe mạnh; luân canh với các loại cây trồng không cùng nhóm ký chủ; thu gom và loại bỏ tàn dư cây bệnh; tỉa cành để vườn thông thoáng. Hạn chế tưới nước trực tiếp lên lá, đặc biệt vào chiều tối.",
+    "treatment": "Cắt bỏ những lá bị bệnh nặng và thu gom tàn dư thực vật nhiễm bệnh. Điều chỉnh chế độ tưới để hạn chế độ ẩm trên lá. Khi cần thiết, sử dụng thuốc bảo vệ thực vật được đăng ký tại địa phương cho bệnh này và tuân thủ đúng hướng dẫn trên nhãn sản phẩm.",
+    "source": "https://extension.umn.edu/agriculture/specialty-crops/vegetable-farming/disease-management/early-blight-in-tomato-and-potato"
+  },
+  {
+    "id": "tomato_late_blight",
+    "plant": "Tomato",
+    "disease": "Late blight",
+    "symptoms": "Lá cà chua xuất hiện các vết bệnh không có hình dạng cố định, ban đầu trông như bị úng nước. Những vết này lan rộng nhanh chóng và chuyển sang màu nâu hoặc đen. Trong điều kiện thời tiết mát và ẩm, mặt dưới lá có thể xuất hiện lớp mốc trắng. Vết bệnh lớn, không đều và lan nhanh là những dấu hiệu giúp phân biệt bệnh mốc sương với bệnh đốm vi khuẩn, vốn thường tạo ra nhiều đốm nhỏ riêng biệt.",
+    "causes": "Bệnh do tác nhân Phytophthora infestans gây ra. Tác nhân này phát triển và lây lan mạnh trong điều kiện thời tiết mát, mưa nhiều, độ ẩm không khí cao và lá cây bị ướt kéo dài.",
+    "prevention": "Sử dụng cây giống và vật liệu trồng khỏe mạnh. Đảm bảo đất thoát nước tốt, trồng với mật độ phù hợp để vườn thông thoáng. Thường xuyên kiểm tra và loại bỏ cây có dấu hiệu nhiễm bệnh. Hạn chế để lá ẩm ướt trong thời gian dài.",
+    "treatment": "Nhanh chóng loại bỏ các bộ phận cây bị nhiễm bệnh và thu gom tàn dư đúng cách. Khi cần thiết, sử dụng sản phẩm phòng trừ bệnh được đăng ký tại địa phương, phù hợp với cây cà chua và bệnh mốc sương. Luôn tuân thủ hướng dẫn sử dụng và khuyến cáo của cơ quan chuyên môn.",
+    "source": "https://ipm.cahnr.uconn.edu/tomato-late-blight/"
+  },
+  {
+    "id": "tomato_bacterial_spot",
+    "plant": "Tomato",
+    "disease": "Bacterial spot",
+    "symptoms": "Lá cà chua xuất hiện nhiều đốm nhỏ màu sẫm, phân bố rải rác trên bề mặt lá. Ban đầu, các đốm có thể trông như bị úng nước, sau đó chuyển sang màu nâu và khô lại. Một số vết bệnh có quầng vàng xung quanh. Bệnh thường tạo ra nhiều đốm nhỏ riêng biệt, khác với bệnh mốc sương thường gây ra các vết lớn, không đều và lan rộng nhanh.",
+    "causes": "Bệnh do vi khuẩn thuộc chi Xanthomonas gây ra. Vi khuẩn có thể lây lan qua hạt giống nhiễm bệnh, cây con mang mầm bệnh, nước bắn từ cây này sang cây khác và dụng cụ làm vườn không được vệ sinh.",
+    "prevention": "Sử dụng hạt giống có nguồn gốc rõ ràng và không mang mầm bệnh. Hạn chế chăm sóc hoặc tiếp xúc với cây khi lá còn ướt. Vệ sinh dụng cụ làm vườn thường xuyên, luân canh cây trồng và thu gom tàn dư thực vật bị nhiễm bệnh.",
+    "treatment": "Kiểm tra và loại bỏ những cây bị nhiễm bệnh nghiêm trọng khi cần thiết. Thu gom tàn dư cây bệnh để hạn chế nguồn lây lan. Chỉ sử dụng sản phẩm được đăng ký phù hợp tại địa phương và thực hiện theo hướng dẫn của cơ quan chuyên môn.",
+    "source": "https://extension.umn.edu/agriculture/specialty-crops/vegetable-farming/disease-management/bacterial-spot-of-tomato-and-pepper"
+  },
+  {
+    "id": "tomato_healthy",
+    "plant": "Tomato",
+    "disease": "healthy",
+    "symptoms": "Lá cà chua khỏe mạnh thường có màu xanh tương đối đồng đều, bề mặt nguyên vẹn và không xuất hiện các đốm bệnh bất thường. Lá không có biểu hiện vàng úa, héo rũ, thối hoặc tổn thương rõ rệt do sâu bệnh.",
+    "causes": "Đây là trạng thái cây phát triển bình thường và chưa xuất hiện dấu hiệu rõ ràng của các bệnh phổ biến. Tuy nhiên, hình dạng và màu sắc lá vẫn có thể thay đổi tùy theo giống cây và điều kiện sinh trưởng.",
+    "prevention": "Tưới nước hợp lý, bón phân cân đối và đảm bảo vườn trồng thông thoáng. Thường xuyên kiểm tra tình trạng lá và thân cây. Giữ khu vực trồng sạch sẽ, thu gom tàn dư thực vật và theo dõi sớm những biểu hiện bất thường.",
+    "treatment": "Cây đang khỏe mạnh nên không cần sử dụng thuốc điều trị bệnh. Tiếp tục chăm sóc đúng kỹ thuật, duy trì chế độ tưới và dinh dưỡng phù hợp, đồng thời thường xuyên theo dõi để phát hiện sớm dấu hiệu bất thường.",
+    "source": "Mô tả tổng quát về cây cà chua khỏe mạnh; không phải tài liệu chẩn đoán bệnh cụ thể."
+  },
+  {
+    "id": "tomato_spider_mites",
+    "plant": "Tomato",
+    "disease": "Spider mites Two-spotted spider mite",
+    "symptoms": "Nhện đỏ hai chấm (Tetranychus urticae) thường tập trung ở mặt dưới lá cà chua và chích hút dịch tế bào thực vật. Lá bị hại xuất hiện nhiều chấm nhỏ màu trắng hoặc vàng li ti. Khi mật độ nhện tăng cao, lá có thể chuyển sang màu vàng, màu đồng hoặc nâu, sau đó khô và rụng. Trường hợp bị hại nặng có thể xuất hiện những lớp tơ mỏng trên lá.",
+    "causes": "Tác nhân gây hại là nhện đỏ hai chấm (Tetranychus urticae). Chúng chích vào tế bào thực vật và hút chất bên trong tế bào. Thời tiết nóng và khô tạo điều kiện thuận lợi cho nhện sinh sản nhanh và gia tăng mật độ. Nhện thường ẩn náu ở mặt dưới lá.",
+    "prevention": "Thường xuyên kiểm tra cây, đặc biệt là mặt dưới của những lá già. Duy trì chế độ tưới phù hợp để cây không bị thiếu nước. Loại bỏ cỏ dại và tàn dư thực vật có mật độ nhện cao khi cần thiết. Bảo vệ các loài thiên địch có ích như nhện bắt mồi, bọ rùa và bọ cánh lưới.",
+    "treatment": "Khi mật độ nhện còn thấp, có thể dùng tia nước phun vào mặt dưới lá để làm rơi nhện. Xà phòng trừ côn trùng hoặc dầu làm vườn có thể hỗ trợ kiểm soát nhện nếu được phun trực tiếp và phủ đều lên vị trí có nhện. Chỉ lặp lại việc xử lý theo hướng dẫn trên nhãn sản phẩm. Nếu cây bị hại nặng, cần tham khảo cán bộ chuyên môn và chỉ sử dụng sản phẩm được đăng ký cho cây cà chua và đối tượng nhện gây hại. Tránh lạm dụng thuốc phổ rộng vì có thể tiêu diệt cả thiên địch có ích.",
+    "source": "University of Connecticut Extension: https://ipm.cahnr.uconn.edu/tomato-spider-mites/ ; University of Maryland Extension: https://extension.umd.edu/resource/expect-see-two-spotted-spider-mites-vegetables"
+  },
+  {
+    "id": "tomato_leaf_mold",
+    "plant": "Tomato",
+    "disease": "Leaf Mold",
+    "symptoms": "B?nh th??ng xu?t hi?n tr??c ti?n tr?n c?c l? gi? ? ph?n d??i t?n. M?t tr?n l? c? c?c ??m m?u xanh nh?t ho?c v?ng, sau ?? lan r?ng. Trong ?i?u ki?n ?m cao, m?t d??i l? xu?t hi?n l?p n?m m?u x?m ? liu ho?c x?m t?m, c? d?ng nhung. Khi b?nh n?ng, c?c ??m li?n k?t v?i nhau l?m l? kh? v? ch?t. ??i khi b?nh c?n ?nh h??ng ??n th?n, hoa v? qu?.",
+    "causes": "B?nh do n?m Passalora fulva g?y ra, tr??c ??y th??ng ???c g?i l? Cladosporium fulvum. N?m t?n t?i trong t?n d? c?y b?nh v? c? th? l?y lan qua gi?, n??c m?a, d?ng c? ho?c h?t gi?ng nhi?m b?nh. ?? ?m kh?ng kh? cao, nhi?t ?? ?m v? t?n c?y k?m th?ng tho?ng t?o ?i?u ki?n thu?n l?i cho b?nh ph?t tri?n.",
+    "prevention": "Tr?ng c?y v?i kho?ng c?ch ph? h?p ?? t?ng l?u th?ng kh?ng kh?. T?a c?nh v? l? gi? ?? t?n c?y th?ng tho?ng. T??i n??c ? g?c, h?n ch? l?m ??t l?. Thu gom t?n d? c?y b?nh sau m?i v? v? lu?n canh v?i c?y tr?ng kh?ng c?ng nh?m k? ch?. C? th? ?u ti?n gi?ng c? chua c? kh? n?ng kh?ng b?nh.",
+    "treatment": "Lo?i b? l? v? b? ph?n c?y b? nhi?m b?nh n?ng, thu gom t?n d? ?? h?n ch? ngu?n n?m. C?i thi?n th?ng gi? v? gi?m ?? ?m trong t?n c?y, ??c bi?t khi tr?ng trong nh? k?nh. Khi c?n thi?t, s? d?ng thu?c b?o v? th?c v?t ???c ??ng k? cho b?nh n?y v? c?y c? chua t?i ??a ph??ng, tu?n th? h??ng d?n tr?n nh?n.",
+    "source": "https://hgic.clemson.edu/factsheet/tomato-diseases-disorders/"
+  },
+  {
+    "id": "tomato_septoria_leaf_spot",
+    "plant": "Tomato",
+    "disease": "Septoria leaf spot",
+    "symptoms": "B?nh th??ng b?t ??u tr?n c?c l? gi? ? g?n m?t ??t b?ng nh?ng ??m nh? h?nh tr?n, c? t?m m?u x?m ho?c tr?ng x?m v? vi?n n?u s?m. ? gi?a ??m c? th? quan s?t th?y c?c ch?m ?en nh? l? c? quan t?o b?o t? c?a n?m. Khi b?nh ph?t tri?n, c?c ??m li?n k?t v?i nhau, l? chuy?n v?ng, kh? v? r?ng s?m. B?nh ch? y?u g?y h?i tr?n l?, cu?ng l? v? th?n.",
+    "causes": "B?nh do n?m Septoria lycopersici g?y ra. N?m t?n t?i trong t?n d? c?y tr?ng nhi?m b?nh v? c? th? ph?t t?n qua n??c m?a b?n, gi? ho?c n??c t??i. Th?i ti?t ?m ??t, m?a nhi?u v? l? b? ??t k?o d?i l?m t?ng nguy c? l?y nhi?m.",
+    "prevention": "Lu?n canh v?i c?y tr?ng kh?ng c?ng k? ch?. Tr?ng c?y v?i m?t ?? ph? h?p ?? t?ng ?? th?ng tho?ng. Ph? l?p v?t li?u th?ch h?p tr?n m?t ??t ?? h?n ch? ??t v? b?o t? b?n l?n l?. T??i n??c tr?c ti?p v?o g?c, tr?nh t??i l?n t?n l?. Thu gom l? b?nh v? t?n d? c?y tr?ng sau thu ho?ch.",
+    "treatment": "C?t b? c?c l? b? nhi?m b?nh, ??c bi?t l? l? ? t?ng d??i, v? x? l? t?n d? ??ng c?ch. H?n ch? t??i phun l?n l? v? c?i thi?n ?i?u ki?n th?ng tho?ng trong v??n. Khi b?nh c? nguy c? g?y thi?t h?i nghi?m tr?ng, c? th? s? d?ng thu?c tr? n?m ph? h?p theo khuy?n c?o chuy?n m?n v? h??ng d?n tr?n nh?n.",
+    "source": "https://extension.umd.edu/resource/septoria-leaf-spot-tomatoes"
+  },
+  {
+    "id": "tomato_target_spot",
+    "plant": "Tomato",
+    "disease": "Target Spot",
+    "symptoms": "B?nh th??ng b?t ??u ? c?c l? gi? ho?c ph?n b?n trong t?n c?y b?ng nh?ng ??m nh? m?u n?u, c? th? xu?t hi?n d?ng ?ng n??c. ??m b?nh m? r?ng, ph?n gi?a chuy?n m?u n?u nh?t ??n x?m, xung quanh c? c?c v?ng ??ng t?m gi?ng h?nh bia b?n v? ??i khi c? qu?ng v?ng. Nhi?u ??m c? th? li?n k?t khi?n l? b? ch?y v? r?ng s?m. Tr?n qu? xu?t hi?n c?c v?t n?u nh?, h?i l?m, sau ?? ph?t tri?n th?nh nh?ng v?ng t?n th??ng l?n v? l?m s?u.",
+    "causes": "B?nh do n?m Corynespora cassiicola g?y ra. N?m c? ph?m vi k? ch? r?ng v? c? th? t?n t?i tr?n t?n d? c?y b?nh, c?y tr?ng kh?c ho?c c? d?i. B?o t? ph?t t?n qua gi? v? n??c m?a. Nhi?t ?? ?m, ?? ?m cao v? th?i gian l? ??t k?o d?i t?o ?i?u ki?n thu?n l?i cho b?nh ph?t tri?n.",
+    "prevention": "S? d?ng c?y gi?ng kh?e m?nh v? ki?m tra c?y tr??c khi tr?ng. Tr?ng v?i m?t ?? ph? h?p, t?a t?n ?? t?ng l?u th?ng kh?ng kh?. H?n ch? t??i phun l?n l?, thu gom t?n d? sau thu ho?ch v? ki?m so?t c? d?i c? th? l? k? ch? c?a n?m. Lu?n canh c?y tr?ng v? tr?nh tr?ng c? chua li?n t?c tr?n c?ng di?n t?ch.",
+    "treatment": "Ki?m tra k? ph?n b?n trong t?n c?y v? b?nh c? th? ph?t tri?n t? khu v?c n?y. Lo?i b? l? v? b? ph?n c?y b? b?nh n?ng, thu gom t?n d? ?? h?n ch? ngu?n n?m. ?i?u ch?nh t??i ti?u nh?m gi?m th?i gian l? b? ??t. Khi c?n thi?t, s? d?ng thu?c tr? n?m ???c ??ng k? ph? h?p v?i b?nh v? c?y c? chua t?i ??a ph??ng, tu?n th? h??ng d?n tr?n nh?n.",
+    "source": "https://ask.ifas.ufl.edu/publication/PP351"
+  },
+  {
+    "id": "tomato_tomato_yellow_leaf_curl_virus",
+    "plant": "Tomato",
+    "disease": "Tomato Yellow Leaf Curl Virus",
+    "symptoms": "C?y nhi?m b?nh th??ng sinh tr??ng c?i c?c, th?n c? xu h??ng m?c th?ng v? c?c ??t th?n ng?n l?i. L? non nh?, cong cu?n l?n tr?n, nh?n v? bi?n d?ng; phi?n l? xu?t hi?n hi?n t??ng v?ng gi?a g?n ho?c v?ng ? m?p. C?y c? th? ph?t tri?n th?nh d?ng b?i, hoa d? r?ng v? kh? n?ng ??u qu? gi?m m?nh, ??c bi?t khi nhi?m b?nh ? giai ?o?n s?m.",
+    "causes": "B?nh do Tomato yellow leaf curl virus (TYLCV) g?y ra. Virus ch? y?u ???c truy?n b?i b? ph?n tr?ng thu?c nh?m Bemisia. C?n tr?ng ch?ch h?t c?y nhi?m b?nh r?i truy?n virus sang c?y kh?e. C?y gi?ng nhi?m virus v? c? d?i k? ch? c?ng c? th? g?p ph?n duy tr? ngu?n b?nh.",
+    "prevention": "S? d?ng c?y gi?ng s?ch b?nh v? gi?ng c? kh? n?ng kh?ng TYLCV khi c? ?i?u ki?n. Ki?m tra c?y gi?ng tr??c khi tr?ng. Theo d?i v? qu?n l? b? ph?n tr?ng, s? d?ng l??i ch?n c?n tr?ng ph? h?p trong v??n ??m ho?c nh? k?nh. Lo?i b? c? d?i k? ch? v? tr?nh b? tr? l?a tr?ng m?i g?n khu v?c c? nhi?u c?y nhi?m b?nh.",
+    "treatment": "Hi?n kh?ng c? thu?c c? th? ch?a kh?i c?y ?? nhi?m virus. Khi ph?t hi?n c?y c? tri?u ch?ng nghi ng?, c?n ki?m tra ?? ph?n bi?t v?i c?c nguy?n nh?n g?y xo?n l? kh?c. Lo?i b? c?y nhi?m b?nh khi ph? h?p ?? h?n ch? ngu?n virus. T?p trung qu?n l? b? ph?n tr?ng v? b?o v? c?c c?y ch?a nhi?m b?nh.",
+    "source": "https://ipm.ucanr.edu/agriculture/tomato/tomato-yellow-leaf-curl/"
+  },
+  {
+    "id": "tomato_tomato_mosaic_virus",
+    "plant": "Tomato",
+    "disease": "Tomato mosaic virus",
+    "symptoms": "L? c? chua xu?t hi?n c?c m?ng m?u xanh ??m v? xanh nh?t xen k? t?o th?nh d?ng kh?m. L? non c? th? cong, nh?n, bi?n d?ng ho?c ph?t tri?n th?nh d?ng l? d??ng x?. C?y nhi?m b?nh t? s?m th??ng c?i c?c v? gi?m kh? n?ng sinh tr??ng. Qu? c? th? ch?n kh?ng ??ng ??u, xu?t hi?n c?c v?ng ??i m?u ho?c gi?m ch?t l??ng v? s?n l??ng.",
+    "causes": "B?nh do Tomato mosaic virus (ToMV) g?y ra. Virus c? th? t?n t?i trong h?t gi?ng, t?n d? c?y b?nh v? ???c truy?n qua tay ng??i, qu?n ?o, d?ng c? ho?c ho?t ??ng ti?p x?c v?i c?y. Virus c? kh? n?ng l?y lan c? h?c khi c?t t?a, bu?c d?y ho?c ch?m s?c c?y b?ng d?ng c? nhi?m b?n.",
+    "prevention": "S? d?ng h?t gi?ng v? c?y gi?ng s?ch b?nh, ?u ti?n gi?ng c? kh? n?ng kh?ng ToMV. R?a tay tr??c khi ch?m s?c c?y v? v? sinh d?ng c? th??ng xuy?n, ??c bi?t gi?a c?c c?y. Kh?ng s? d?ng thu?c l? ho?c s?n ph?m thu?c l? khi ?ang thao t?c trong v??n. Thu gom t?n d? c?y b?nh v? v? sinh khu v?c tr?ng sau m?i v?.",
+    "treatment": "Kh?ng c? thu?c h?a h?c ch?a kh?i c?y ?? nhi?m virus. C?n lo?i b? c?y nghi nhi?m sau khi c? ??nh gi? ph? h?p, tr?nh ti?p t?c thao t?c l?m l?y lan sang c?y kh?e. Kh? tr?ng d?ng c?, v? sinh tay v? thi?t b? ch?m s?c. Kh?ng s? d?ng t?n d? c?y nhi?m b?nh l?m v?t li?u nh?n gi?ng ho?c ph?n ? th?ng th??ng.",
+    "source": "https://extension.umn.edu/agriculture/specialty-crops/vegetable-farming/disease-management/tomato-viruses"
+  }
+]

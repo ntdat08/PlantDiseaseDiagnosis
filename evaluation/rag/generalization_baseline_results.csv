@@ -1,0 +1,21 @@
+﻿question,expected_plant,expected_disease,top1_plant,top1_disease,top1_section,top3_results,hit_at_1,hit_at_3,plant_hit_at_1,plant_hit_at_3
+"Cà chua bị những vết nâu hình bia bắn, thường bắt đầu từ lá phía dưới. Bệnh gì?",Tomato,Early blight,Tomato,Early blight,symptoms,Tomato: Early blight | Tomato: Bacterial spot | Tomato: Late blight,1,1,1,1
+"Trên lá cà chua có các vết bệnh loang lổ, lan rất nhanh khi trời lạnh và mưa nhiều.",Tomato,Late blight,Tomato,Late blight,causes,Tomato: Late blight | Tomato: Early blight | Tomato: Bacterial spot,1,1,1,1
+"Những chấm đen li ti xuất hiện rải rác trên lá cà chua, sau đó khô lại là dấu hiệu của bệnh nào?",Tomato,Bacterial spot,Tomato,Late blight,symptoms,Tomato: Late blight | Tomato: Bacterial spot | Tomato: Early blight,0,1,1,1
+Tác nhân Alternaria solani thường gây hại cho cây cà chua dưới dạng bệnh nào?,Tomato,Early blight,Tomato,Early blight,causes,Tomato: Early blight | Tomato: Bacterial spot | Tomato: Late blight,1,1,1,1
+Làm thế nào để hạn chế bệnh do Phytophthora infestans gây ra trên cà chua?,Tomato,Late blight,Tomato,Late blight,causes,Tomato: Late blight | Tomato: Bacterial spot | Tomato: healthy,1,1,1,1
+Vi khuẩn Xanthomonas khiến lá cà chua xuất hiện nhiều đốm nhỏ. Đó là bệnh gì?,Tomato,Bacterial spot,Tomato,Bacterial spot,causes,Tomato: Bacterial spot | Apple: Black rot | Tomato: healthy,1,1,1,1
+"Lá táo có các vết màu xanh lục như màu ô liu, sau đó sẫm màu và quả bị sần. Đây là bệnh gì?",Apple,Apple scab,Apple,Cedar-apple rust,symptoms,Apple: Cedar-apple rust | Apple: Apple scab | Apple: healthy,0,1,1,1
+"Quả táo bị những mảng vảy sẫm màu, bề mặt thô ráp và méo mó.",Apple,Apple scab,Apple,Cedar-apple rust,symptoms,Apple: Cedar-apple rust | Apple: Apple scab | Apple: healthy,0,1,1,1
+Loại nấm Venturia inaequalis là nguyên nhân gây bệnh nào?,Apple,Apple scab,Apple,Black rot,causes,Apple: Black rot | Tomato: Early blight | Apple: Apple scab,0,1,1,1
+"Lá táo có những vòng đốm tròn với phần giữa nâu nhạt, viền tím giống mắt ếch.",Apple,Black rot,Apple,Cedar-apple rust,symptoms,Apple: Cedar-apple rust | Apple: Apple scab | Apple: Black rot,0,1,1,1
+"Một số quả táo bị thối nâu, khô quắt và vẫn còn bám trên cành. Có thể là bệnh gì?",Apple,Black rot,Apple,Cedar-apple rust,symptoms,Apple: Cedar-apple rust | Apple: Apple scab | Apple: Black rot,0,1,1,1
+Nấm Botryosphaeria obtusa gây ra bệnh nào ở cây táo?,Apple,Black rot,Apple,Black rot,causes,Apple: Black rot | Apple: Apple scab | Apple: Cedar-apple rust,1,1,1,1
+Trên lá táo có các đốm vàng cam và phía dưới xuất hiện những phần tua giống ống.,Apple,Cedar-apple rust,Apple,Cedar-apple rust,symptoms,Apple: Cedar-apple rust | Apple: Apple scab | Apple: healthy,1,1,1,1
+Bệnh nào trên táo có liên quan đến cả cây táo và cây bách xù trong vòng đời của nấm?,Apple,Cedar-apple rust,Apple,Cedar-apple rust,causes,Apple: Cedar-apple rust | Apple: Apple scab | Apple: Black rot,1,1,1,1
+Gymnosporangium juniperi-virginianae là tác nhân gây bệnh nào?,Apple,Cedar-apple rust,Tomato,Bacterial spot,causes,Tomato: Bacterial spot | Apple: Cedar-apple rust | Apple: Black rot,0,1,0,1
+"Lá táo xanh đều, không có đốm bất thường, không bị vàng hay thối thì thuộc tình trạng nào?",Apple,healthy,Apple,healthy,symptoms,Apple: healthy | Apple: Cedar-apple rust | Apple: Apple scab,1,1,1,1
+"Trong bộ dữ liệu, nhãn healthy của cà chua có nghĩa là gì?",Tomato,healthy,Tomato,healthy,symptoms,Tomato: healthy | Tomato: Late blight | Apple: healthy,1,1,1,1
+"Lá cà chua có nhiều vết bệnh nhỏ, không phải các mảng lớn lan nhanh. Nên kiểm tra bệnh nào?",Tomato,Bacterial spot,Tomato,healthy,causes,Tomato: healthy | Tomato: Late blight | Tomato: Bacterial spot,0,1,1,1
+Những vết tổn thương màu đen trên lá cà chua có lớp sinh trưởng trắng ở mặt dưới khi độ ẩm cao là bệnh gì?,Tomato,Late blight,Tomato,Late blight,symptoms,Tomato: Late blight | Tomato: Bacterial spot | Tomato: Early blight,1,1,1,1
+"Quả táo xuất hiện các vết thối tạo thành nhiều vòng tròn, khác với lớp vảy sần trên vỏ quả.",Apple,Black rot,Apple,Cedar-apple rust,symptoms,Apple: Cedar-apple rust | Apple: Apple scab | Apple: Black rot,0,1,1,1

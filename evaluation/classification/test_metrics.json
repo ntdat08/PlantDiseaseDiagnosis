@@ -1,0 +1,12 @@
+{
+    "model": "MobileNetV2 Phase 2",
+    "test_images": 8143,
+    "accuracy": 0.9707724425887265,
+    "macro_precision": 0.9630772363004625,
+    "macro_recall": 0.9607960664934908,
+    "macro_f1": 0.9611429524462834,
+    "weighted_precision": 0.9716735034463602,
+    "weighted_recall": 0.9707724425887265,
+    "weighted_f1": 0.9707388830191257,
+    "prediction_time_minutes": 2.7703800042470297
+}
