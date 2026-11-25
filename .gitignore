@@ -18,6 +18,7 @@ dataset/processed/*
 # AI models and artifacts
 models/*.keras
 models/*.h5
+!models/mobilenetv2_best_phase2.h5
 artifacts/*
 
 # Vector database
