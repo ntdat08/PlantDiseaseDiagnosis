@@ -12,7 +12,10 @@ from google.genai import types
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
-load_dotenv(PROJECT_ROOT / ".env")
+load_dotenv(
+    PROJECT_ROOT / ".env",
+    encoding="utf-8-sig"
+)
 
 API_KEY = os.getenv("GEMINI_API_KEY")
 MODEL = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite")
